@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions
 (
 		features = "/Fieldseeker_Office/src/test/java/features",
-		tags= "@FSOS1, @FSOS2,@FSOS3",
+		tags= "@FSOS1, @FSOS2,@FSOS3,@Task2",
 		glue= {"/Fieldseeker_Office/src/test/java/SeleniumGlueCode"},
 		
 		monochrome = true
